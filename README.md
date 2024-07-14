@@ -22,8 +22,7 @@ Se tiene que ver así:
 
 En el archivo llamado "DB2" dentro del paquete estudiantes en Source Packages debes cambiar estas líneas:
 
-
-private static final String URL = "jdbc:mysql://localhost:3307/programa";
+    private static final String URL = "jdbc:mysql://localhost:3307/programa";
 
     private static final String USUARIO = "root";
     

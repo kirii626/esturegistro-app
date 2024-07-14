@@ -21,9 +21,14 @@ Se tiene que ver así:
 ![image](https://github.com/user-attachments/assets/7bec9f6e-f830-41de-bba1-ca52f1ae0b29)
 
 En el archivo llamado "DB2" dentro del paquete estudiantes en Source Packages debes cambiar estas líneas:
+
+
 private static final String URL = "jdbc:mysql://localhost:3307/programa";
+
     private static final String USUARIO = "root";
+    
     private static final String CONTRASENA = "1234";
+    
 Cambia los datos de  el puerto de la URL (el 3307), el usuario y la contraseña por los datos que estén en tu Xampp y MySQL configurados.
 Exporta el archivo llamado app_acosta.sql y ejecutalo en tu MySQL Workbench.
 Activa el servidor de Xampp y verifica la conexión entre la DB y el Xampp verificando que se estén escuchando en el mismo puerto.

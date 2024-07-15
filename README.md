@@ -18,6 +18,8 @@ Abre el Apache Netbeans y ve al botón de Files en la esquina superior izquierda
 Selecciona Open Project y podrás visualizar el paquete con las diferentes ventanas del programa.
 Comprueba que en libraries esté incluido el conector de MySQL, en caso de no estarlo agrega el archivo que incluí en el link del Drive.
 Se tiene que ver así: 
+
+
 ![image](https://github.com/user-attachments/assets/7bec9f6e-f830-41de-bba1-ca52f1ae0b29)
 
 En el archivo llamado "DB2" dentro del paquete estudiantes en Source Packages debes cambiar estas líneas:

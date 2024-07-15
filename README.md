@@ -34,3 +34,9 @@ Activa el servidor de Xampp y verifica la conexión entre la DB y el Xampp verif
 Debes ejecutar el programa desde el archivo llamado "principal.java"
 
 
+
+
+
+Hecho por Alejandra Kiara Justiniano Olmos y Mateo Santiago Márquez
+
+
